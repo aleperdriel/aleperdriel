@@ -2,7 +2,8 @@
 
 I'm Auriane, a **student in Creative Technology Design** who loves problem-solving and bringing ideas to life. Whether it's **web development**, exploring the fascinating world of **AI**, or playing with electronics to build exciting prototypes and fun projects, I love diving into new challenges and learning as I go.  
 
-I'm currently seeking a **6-month internship starting February 1st**, where I can contribute and work on innovative projects, with a multidisciplinary approach
+I'm currently seeking a **5-month internship starting March 1st**, where I can contribute and work on innovative projects, with a multidisciplinary approach
+
 
 ---
 
@@ -11,7 +12,7 @@ I'm currently seeking a **6-month internship starting February 1st**, where I ca
 - **Web Development Enthusiast**: Skilled in full-stack development, I enjoy creating intuitive and functional applications
 - **AI Learner**: Interested in pushing boundaries with artificial intelligence and its creative applications
 - **Electronics Hobbyist**: Always learning and experimenting, I love crafting hardware prototypes and bringing concepts to reality  
-- **Builder at Heart**: I'm a big fan of prototyping and making things, whether software or hardware
+- **Maker at Heart**: I'm a big fan of prototyping and making things, whether software or hardware
 
 ---
 
@@ -48,6 +49,6 @@ If you’re looking for a motivated intern with a blend of technical and creativ
 
 📧 **Email**: [auriane.le.perdriel@outlook.fr](mailto:auriane.le.perdriel@outlook.fr)  
 💼 **LinkedIn**: [linkedin.com/in/aurianedev](https://linkedin.com/in/aurianedev)  
-🖌️ **Portfolio**: Soon... 
+🖌️ **Portfolio**: WIP: [my portfolio](https://react-portfolio-alpha-one-64.vercel.app/#projects) 
 
 Let's chat!  
